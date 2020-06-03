@@ -1,0 +1,11 @@
+{
+  "name": "send-mail-nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Marcos-Nacimento/send-mail-nodemailer.git",
+  "author": "Marcos-Nacimento <62677231+Marcos-Nacimento@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.8"
+  }
+}
