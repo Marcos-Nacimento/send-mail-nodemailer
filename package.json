@@ -6,6 +6,6 @@
   "author": "Marcos-Nacimento <62677231+Marcos-Nacimento@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.16"
   }
 }
